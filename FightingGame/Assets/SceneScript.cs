@@ -23,4 +23,5 @@ public class SceneScript : MonoBehaviour
     public void Scene2() {  
         SceneManager.LoadScene("Scene 1"); 
     }  
+     
 }
