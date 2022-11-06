@@ -1,0 +1,83 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Scene 1.unity
+    guid: 549161d399e3c0545a5db149c5dd92bf
+  - enabled: 1
+    path: Assets/Scenes/Scene 2.unity
+    guid: b2a3ba7889481f54cbe5616400a305ea
+  - enabled: 1
+    path: Assets/Scenes/2a - idleP1.unity
+    guid: c47ee2a7274b2e34c867bd40aa50cfe2
+  - enabled: 1
+    path: Assets/Scenes/3-P1LK Pass.unity
+    guid: 1f385d0301141b34fbcf73bc52945344
+  - enabled: 1
+    path: Assets/Scenes/4-P1LK Fail.unity
+    guid: 5ba18df8a37ce544d9ca80e8f9f2142d
+  - enabled: 1
+    path: Assets/Scenes/5-P1HK Pass.unity
+    guid: 3fdfbc6e9028dc445ae5b8953d3480a3
+  - enabled: 1
+    path: Assets/Scenes/6-P1HK Fail.unity
+    guid: 08763e1023904dc47bdb1fe18fe01e38
+  - enabled: 1
+    path: Assets/Scenes/7-P1LP Pass.unity
+    guid: a99ad86f4ca23274bbde6d188a875eeb
+  - enabled: 1
+    path: Assets/Scenes/8-P1LP Fail.unity
+    guid: b9e713b2a8bbd4c4dac47139bd72f518
+  - enabled: 1
+    path: Assets/Scenes/9-P1HP Pass.unity
+    guid: e4a0faa6b4ccccd47823d24be16aff05
+  - enabled: 1
+    path: Assets/Scenes/10-P1HP Fail.unity
+    guid: 30647c7d888dd60499b4e78a0b6ae440
+  - enabled: 1
+    path: Assets/Scenes/11-P1Special.unity
+    guid: fd7c6f754ae53b742912a6677d342c3b
+  - enabled: 1
+    path: Assets/Scenes/12-P2Special.unity
+    guid: 0464a1b552d2f124c8aee7640af6535c
+  - enabled: 1
+    path: Assets/Scenes/13-P2LK Pass.unity
+    guid: b8123db107578174c89d0279b6583f78
+  - enabled: 1
+    path: Assets/Scenes/14-P2LK Fail.unity
+    guid: 8573acc24e946394c95c0804ef908623
+  - enabled: 1
+    path: Assets/Scenes/15-P2HK Pass.unity
+    guid: df3f9186f0c71874e922bf25370153cf
+  - enabled: 1
+    path: Assets/Scenes/16-P2HK Fail.unity
+    guid: 8cb525f3ff2dd324d8dc9e7e5d60edeb
+  - enabled: 1
+    path: Assets/Scenes/17-P2LP Pass.unity
+    guid: 0520db343a795ca4585f45455c208c0b
+  - enabled: 1
+    path: Assets/Scenes/18-P2LP Fail.unity
+    guid: dce20fe04b315df4b9fd6e059011a002
+  - enabled: 1
+    path: Assets/Scenes/19-P2HP Pass.unity
+    guid: e066ee61f890ac34e9c460954d7ce277
+  - enabled: 1
+    path: Assets/Scenes/20-P2HP Faili.unity
+    guid: fdeab834fd084b74d9e850fa33fc42cf
+  - enabled: 1
+    path: Assets/Scenes/21-P1Victory.unity
+    guid: ff5e3926d5182d14e9e4d13b7ca4b4d2
+  - enabled: 1
+    path: Assets/Scenes/22-P2Victory.unity
+    guid: f6ff42b92cc5d8a4194a1d03579b3511
+  - enabled: 1
+    path: Assets/Scenes/2b - idleP2.unity
+    guid: fbfc88f0168edbe40b301888901a0671
+  - enabled: 1
+    path: Assets/Scenes/Restart.unity
+    guid: b2b5a306f74ee2344b331b9235edbeb3
+  m_configObjects: {}
